@@ -15,7 +15,7 @@ A simple text editor that allows you to code on the go.
 ## Links
 
 <a href="https://github.com/0-Sunny-0/PWA-Text-Editor">Github Repo Link</a><br>
-<a href="https://pwa-text-editor-6qw0.onrender.com/">Render Deployed Site</a><br>
+<a href="">Render Deployed Site</a><br>
 
 ## Contributing
 
