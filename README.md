@@ -4,6 +4,7 @@
 
 - [Description](#description)<br>
 - [Links](#links)<br>
+- [Visuals](#visuals)<br>
 - [Contributing](#Contributing)<br>
 - [License](#license)<br>
 - [Questions](#Questions)<br>
@@ -15,7 +16,11 @@ A simple text editor that allows you to code on the go.
 ## Links
 
 <a href="https://github.com/0-Sunny-0/PWA-Text-Editor">Github Repo Link</a><br>
-<a href="">Render Deployed Site</a><br>
+<a href="https://pwa-text-editor-x1yw.onrender.com">Render Deployed Site</a><br>
+
+## Visuals
+
+<img src="./README_images/JATE-Landing-page.png" />
 
 ## Contributing
 
