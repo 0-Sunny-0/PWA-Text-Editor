@@ -11,7 +11,9 @@
 
 ## Description
 
-A simple text editor that allows you to code on the go. 
+A simple text editor that allows you to code on the go; whether you're connected to the Interwebs, or not.<br>
+
+Happy Coding! 💛
 
 ## Links
 
